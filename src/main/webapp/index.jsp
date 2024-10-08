@@ -19,6 +19,11 @@
 	<p><a href="ex3-1">예제 3-1</a></p>
 	<p><a href="ex3-2">예제 3-2</a></p>
 	<p><a href="ex3-3">예제 3-3</a></p>
-	<p><a href="ex3-3">예제 3-4</a></p>
+	<p><a href="ex3-4">예제 3-4</a></p>
+	<p><a href="ex3-6">예제 3-6</a></p>
+	<p><a href="ex3-7">예제 3-7</a></p>
+	<p><a href="ex3-9">예제 3-9</a></p>
+	<p><a href="ex3-10">예제 3-10</a></p>
+	<p><a href="ex3-11">예제 3-11</a></p>
 </body>
 </html>
