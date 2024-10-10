@@ -26,6 +26,13 @@
 	<p><a href="ex3-10">예제 3-10</a></p>
 	<p><a href="ex3-11">예제 3-11</a></p>
 	<hr></hr>
+	<!-- 
+		<form action="ex4_0" method="get">
+		<input type="text" name ="id" /><br>
+		<input type="text" name ="name" /><p>
+		<input type="submit" value="전송" />
+		</form>
+	 -->
 	<p><a href="ex4-1">예제 4-1</a></p>
 	<p><a href="ex4-2">예제 4-2</a></p>
 	<p><a href="ex4-3">예제 4-3</a></p>
@@ -34,5 +41,8 @@
 	<p><a href="ex4-6">예제 4-6</a></p>
 	<p><a href="ex4-7">예제 4-7</a></p>
 	<p><a href="ex4-8">예제 4-8</a></p>
+	<p><a href="ex4-9">예제 4-9</a></p>
+	<p><a href="ex4-10">예제 4-10</a></p>
+	<p><a href="ex4-11">예제 4-11</a></p>
 </body>
 </html>
